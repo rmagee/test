@@ -16,4 +16,5 @@ There's not much else to say...it's just a test project.
 
 ## To clone
 
-    git clone 
+    git clone https://github.com/rmagee/test.git
+ 
