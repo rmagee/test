@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/rmagee/test.svg?token=WUFpdYK9rdccAJC7mxyE&branch=master)](https://travis-ci.com/rmagee/test)
+[![Coverage Status](https://coveralls.io/repos/github/rmagee/test/badge.svg?branch=master)](https://coveralls.io/github/rmagee/test?branch=master)
+
 # This is the README file for Test
 
 ## Contents
