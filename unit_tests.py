@@ -1,5 +1,5 @@
-from devtest import Solutions
 import unittest
+from devtest import Solutions
 from datetime import datetime
 
 fruit = [
@@ -152,3 +152,7 @@ class SolutionsTestCase(unittest.TestCase):
         self.assertTrue(klasses['Neo'].is_the_one())
         self.assertFalse(klasses['Trinity'].is_the_one())
         self.assertFalse(klasses['Morpheous'].is_the_one())
+
+
+if __name__ == '__main__':
+    unittest.main()
